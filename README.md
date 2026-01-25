@@ -36,4 +36,4 @@ E-commerce Sales Analysis (5-Year Data)
 
 ​Below is a preview of the interactive dashboard developed for this project:
 
-​![Dashboard Preview](ECommerce_Sales_Dashboard.png)
+​![Dashboard Preview](Dashboard.png)
