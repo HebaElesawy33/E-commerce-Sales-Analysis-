@@ -1,9 +1,15 @@
 E-commerce Sales Analysis (5-Year Data)
+
 ​📌 Project Overview
+
 ​This project involves a comprehensive analysis of e-commerce sales data spanning over five years. The primary goal was to uncover sales trends, identify high-performing categories, and provide actionable insights to optimize business growth and inventory management.
+
 ​🛠️ Tools & Technologies
+
 ​Microsoft Excel: The core tool used for data processing and visualization.
+
 ​Power Query: Used for data cleaning and transformation (ETL).
+
 ​Pivot Tables & Charts: Used for summarizing complex data points.
 ​Dynamic Dashboard: Created to provide a high-level visual summary of Key Performance Indicators (KPIs).
 ​🔍 Key Analysis Features
