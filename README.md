@@ -1,10 +1,10 @@
 E-commerce Sales Analysis (5-Year Data)
 
-​📌 Project Overview
+​Project Overview
 
 ​This project involves a comprehensive analysis of e-commerce sales data spanning over five years. The primary goal was to uncover sales trends, identify high-performing categories, and provide actionable insights to optimize business growth and inventory management.
 
-​🛠️ Tools & Technologies
+​ Tools & Technologies
 
 ​Microsoft Excel: The core tool used for data processing and visualization.
 
@@ -14,7 +14,7 @@ E-commerce Sales Analysis (5-Year Data)
 
 ​Dynamic Dashboard: Created to provide a high-level visual summary of Key Performance Indicators (KPIs).
 
-​🔍 Key Analysis Features
+​ Key Analysis Features
 
 ​Time Series Analysis: Identifying seasonal patterns and yearly growth rates.
 
@@ -24,7 +24,7 @@ E-commerce Sales Analysis (5-Year Data)
 
 ​Customer Behavior: Analyzing order frequency and average order value (AOV).
 
-​💡 Key Insights
+​ Key Insights
 
 ​Identified a 20% year-over-year growth in sales, driven primarily by the "Electronics" category.
 
@@ -32,7 +32,7 @@ E-commerce Sales Analysis (5-Year Data)
 
 ​Optimized the shipping strategy by identifying regions with the highest delivery delays.
 
-​📊 Visualizations
+​ Visualizations
 
 ​Below is a preview of the interactive dashboard developed for this project:
 
